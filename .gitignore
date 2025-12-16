@@ -1,0 +1,4 @@
+.env
+temp_uploads/
+embeddings/
+__pycache__/
